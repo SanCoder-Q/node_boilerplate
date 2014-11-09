@@ -1,0 +1,16 @@
+{
+  "name": "sample",
+  "version": "0.0.0",
+  "main": "./lib/app.js",
+  "description": "A simple node sample",
+  "author": "SanCoder-Q",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "dependencies": {
+
+  },
+  "bin":{
+    "sample": "sample.js"
+  }
+}
