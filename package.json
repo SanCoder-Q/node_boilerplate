@@ -7,10 +7,11 @@
   "engines": {
     "node": ">=0.10"
   },
-  "dependencies": {
-
-  },
-  "bin":{
+  "dependencies": {},
+  "bin": {
     "sample": "sample.js"
+  },
+  "devDependencies": {
+    "should": "^4.2.1"
   }
 }
